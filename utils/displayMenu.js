@@ -1,4 +1,3 @@
-import { menu } from "./items.js";
 
 const container = document.querySelector('.section-center');
 
